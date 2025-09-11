@@ -49,7 +49,7 @@ El proyecto integra dos partes fundamentales:
 ## 📂 **Repositorios**
 
 - **API-noctiluca** → Backend del proyecto (API principal).
-- **Frontend-noctiluca** → Frontend del proyecto (interfaz visual).
+- **Noctiluca** → Frontend del proyecto (interfaz visual).
 
 ---
 
