@@ -30,7 +30,7 @@ El proyecto integra dos partes fundamentales:
 
 - Lenguaje: **Node.js**
 - Framework: **Express**
-- Base de datos: **MySQL**
+- Base de datos: **MySQL y MongoDB**
 
 ### Frontend
 
